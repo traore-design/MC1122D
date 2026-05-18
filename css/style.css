@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background:khaki}
+
+
+#logo {float:left;}
+
+#icon {float:right;padding:15px;}
+#Buttons {clear:both;padding:10px;}
+#Buttons a:hover {color:red;}
+#Buttons a{color:black; text-decoration-line:none;}
+#Buttons a:visited {color:black;}
+
+
+
+
+#TITLE h1 {color:orange; border-bottom:solid black 1px; margin:1px; padding:4px;}
+
+#Buttons {border-bottom:solid black 1px; border-top:solid black 1px}
+#Buttons a {margin:10px;}
+#Footer {clear:both;}
+#Footer {border-top:solid black 1px;}
+#Footer {margin:0px;}
+#Footer {padding:0px 330px;}
+#kotak {width:900px; background-color:white; margin:0px auto;}
+
+
